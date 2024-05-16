@@ -1,0 +1,4 @@
+C:\Users\mr_crabs256\Desktop\АИП и КУРСОВАЯ\coursework\coursework\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\mr_crabs256\Desktop\АИП и КУРСОВАЯ\coursework\coursework\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\mr_crabs256\Desktop\АИП и КУРСОВАЯ\coursework\coursework\obj\Debug\net8.0-windows\coursework_MarkupCompile.cache
+C:\Users\mr_crabs256\Desktop\АИП и КУРСОВАЯ\coursework\coursework\obj\Debug\net8.0-windows\coursework_MarkupCompile.lref
